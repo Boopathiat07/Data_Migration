@@ -44,7 +44,6 @@ def get_s3_client():
     )
 
 
-
 # Find all files recursively
 def find_all_files(base_dir):
     all_files = []

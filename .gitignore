@@ -5,3 +5,10 @@ venv
 dm_env
 
 .env
+
+# IDE settings
+.idea/
+.vscode/
+
+# Git
+.git
