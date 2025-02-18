@@ -1,0 +1,7 @@
+/Documents
+__pycache__/
+
+venv
+dm_env
+
+.env

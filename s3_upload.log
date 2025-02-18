@@ -1,0 +1,59 @@
+2025-02-18 15:26:33,802 - INFO - Found 9 files to upload
+2025-02-18 15:26:40,061 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:40,102 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:40,384 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:40,420 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:40,523 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:40,529 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:40,538 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:40,540 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:41,614 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:41,629 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:41,778 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:41,882 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:41,931 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:42,138 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:43,544 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 15:26:43,674 - INFO - Successfully uploaded 9 files
+2025-02-18 16:54:22,341 - INFO - Found 10 files to upload
+2025-02-18 16:54:26,174 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:26,969 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:26,975 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:27,036 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:27,188 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:27,360 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:27,932 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:27,957 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:28,414 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:28,696 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:29,460 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:29,852 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:30,012 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:30,160 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:30,646 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:30,949 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:54:31,076 - INFO - Successfully uploaded 10 files
+2025-02-18 16:55:12,501 - INFO - Found 11 files to upload
+2025-02-18 16:55:17,723 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:17,762 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:17,878 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:18,151 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:18,547 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:18,649 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:18,971 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:19,483 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:19,517 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:19,623 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:20,097 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:20,177 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:20,368 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:20,437 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:22,497 - WARNING - Connection pool is full, discarding connection: glms-mediafiles-dev.s3.ap-south-1.amazonaws.com. Connection pool size: 10
+2025-02-18 16:55:22,618 - INFO - Successfully uploaded 11 files
+2025-02-18 17:04:27,784 - INFO - Found 12 files to upload
+2025-02-18 17:04:27,919 - ERROR - Error generating pre-signed URL for database_files/file_submission_skills_10_feb.csv: Client does not have method: database_files/file_submission_skills_10_feb.csv
+2025-02-18 17:09:34,296 - INFO - Found 12 files to upload
+2025-02-18 17:17:54,832 - INFO - Found 3 files to upload
+2025-02-18 17:17:55,407 - INFO - Successfully uploaded 3 files
+2025-02-18 17:42:52,097 - INFO - Found 4 files to upload
+2025-02-18 17:42:52,700 - INFO - Successfully uploaded 4 files
