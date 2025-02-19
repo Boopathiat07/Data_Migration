@@ -12,3 +12,6 @@ dm_env
 
 # Git
 .git
+
+upload_results.json
+s3_upload.log

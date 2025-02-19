@@ -17,3 +17,5 @@ def get_presigned_url(s3_client, s3_key, expiry_time=300):
 # Create S3 client
 s3_client = get_s3_client()
 res = get_presigned_url(s3_client=s3_client, s3_key="database_files/WBT test COuse341.pdf")
+
+print(res)
