@@ -8,6 +8,10 @@ import pandas as pd
 from datetime import datetime
 import mimetypes
 from dotenv import load_dotenv
+import time
+import csv
+import os
+import random
 
 load_dotenv()
 
@@ -27,7 +31,7 @@ logging.basicConfig(
 S3_BUCKET = BUCKET_NAME
 S3_REGION = REGION_NAME  # Change to your region
 S3_PREFIX = 'database_files/'  # Optional prefix for S3 objects
-BASE_DIR = '/home/divum/Desktop/LMS/Data_Migration/Documents/PDF_sample'
+BASE_DIR = '/home/divum/Desktop/LMS/Data_Migration/Documents/AA'
 
 # CSV file path (in the base directory)
 timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
@@ -83,41 +87,93 @@ def get_content_type(file_name):
     return content_types_map.get(extension, "application/octet-stream")  # Default to binary stream
 
 
-# Upload a single file to S3
+# Load CSV mapping {contenthash: filename}
+csv_file_path = "/home/divum/Desktop/LMS/Data_Migration/Documents/contenthash_filename.csv"  # Update with correct path
+hash_to_filename_map = pd.read_csv(csv_file_path).set_index("contenthash")["filename"].to_dict()
+
+# Path for missing filenames CSV
+missing_filenames_csv = "missing_filenames.csv"
+
+def generate_unique_filename(original_filename):
+    # Split filename and extension
+    base_name, file_extension = os.path.splitext(original_filename)  # Correctly extracts extension
+
+    # If no extension, use the default
+    if not file_extension:
+        file_extension = '.bin'
+
+        # Generate a unique timestamp with milliseconds
+    timestamp = int(time.time_ns() // 1_000_000)  # Nanoseconds to milliseconds
+
+    # Append a short random string for extra uniqueness
+    random_suffix = f"{random.randint(1000, 9999)}"  # 4-digit random number
+
+    unique_filename = f"{base_name}__{timestamp}_{random_suffix}{file_extension}"
+
+    return unique_filename
+
 def upload_file_to_s3(file_path, s3_client):
     try:
-        # Get the hashed filename without directory path
+        # Extract the hashed filename (filename stored locally before mapping)
         hashed_filename = os.path.basename(file_path)
 
-        # Determine S3 key by removing base directory and adding prefix
-        relative_path = os.path.relpath(file_path, start=BASE_DIR)
-        s3_key = os.path.join(S3_PREFIX, relative_path) if S3_PREFIX else relative_path
+        # Get actual filename from mapping, or fallback to hashed filename
+        original_filename = hash_to_filename_map.get(hashed_filename, None)
 
-        # Replace backslashes with forward slashes for S3 compatibility
-        s3_key = s3_key.replace('\\', '/')
+        print("HAshed Name : ", hashed_filename, " , Original Name : ", original_filename)
 
-        content_type = get_content_type(hashed_filename)
+        if original_filename is None:
+            # Create the file only when we encounter a missing filename
+            if not os.path.exists(missing_filenames_csv):
+                with open(missing_filenames_csv, mode='w', newline='') as file:
+                    writer = csv.writer(file)
+                    writer.writerow(["contenthash", "s3_key", "upload_timestamp"])  # Header row
 
-        # Upload the file
-        response = s3_client.upload_file(file_path, S3_BUCKET, s3_key, ExtraArgs={"ContentType": content_type})
+            # Log missing filename
+            timestamp_str = time.strftime("%Y-%m-%d %H:%M:%S")
+            with open(missing_filenames_csv, mode='a', newline='') as file:
+                writer = csv.writer(file)
+                writer.writerow([hashed_filename, "", timestamp_str])
 
-        print("******** ", response, " - ", s3_key)
+            # Use hashed filename as fallback
+            original_filename = hashed_filename
+
+
+        # Get file extension (if exists)
+        file_extension = f".{original_filename.split('.')[-1]}" if '.' in original_filename else ""
+
+        # Generate a unique filename without duplicating the extension
+        unique_filename = generate_unique_filename(original_filename)
+
+        print("Unique Name : ", unique_filename)
+
+        # Construct the S3 key (folder + unique filename)
+        s3_key = f"{S3_PREFIX}{unique_filename}"
+
+        # Get Content-Type
+        content_type = get_content_type(original_filename)
+
+        # Upload file to S3
+        s3_client.upload_file(file_path, S3_BUCKET, s3_key, ExtraArgs={"ContentType": content_type})
+
         return {
             'file_path': file_path,
             'hashed_filename': hashed_filename,
+            'original_filename': original_filename,
+            'unique_filename': unique_filename,
             's3_key': s3_key,
             's3_url': s3_key,
             'status': 'success'
         }
+
     except Exception as e:
         logging.error(f"Error uploading {file_path}: {str(e)}")
         return {
             'file_path': file_path,
-            'hashed_filename': os.path.basename(file_path),
+            # 'hashed_filename': hashed_filename,
             'status': 'error',
             'error_message': str(e)
         }
-
 
 # Create CSV report
 def create_csv_report(results):
@@ -147,24 +203,14 @@ def main():
     # Create S3 client
     s3_client = get_s3_client()
 
-    # def get_presigned_url(s3_client, s3_key, expiry_time=300):
-    #     url = s3_client.generate_presigned_url(
-    #         'get_object',
-    #         Params={'Bucket': S3_BUCKET, 'Key':s3_key },
-    #         ExpiresIn=expiry_time
-    #     )
-    #     return url
-    # # Create S3 client
-    # s3_client = get_s3_client()
-    # res = get_presigned_url(s3_client=s3_client, s3_key="database_files/file_submission_skills_10_feb.csv")
-    # print(" ********* : ", res)
-
     # Results container
     results = []
 
     # Upload files in parallel with progress bar
     with ThreadPoolExecutor(max_workers=10) as executor:
-        futures = [executor.submit(upload_file_to_s3, file_path, s3_client) for file_path in all_files]
+        futures = [executor.submit(upload_file_to_s3, file_path, s3_client) for file_path in
+                   all_files]
+        # futures = [executor.submit(upload_file_to_s3, file_path, s3_client) for file_path in all_files]
         for future in tqdm(futures, total=len(all_files), desc="Uploading files"):
             result = future.result()
             results.append(result)
@@ -177,9 +223,9 @@ def main():
     if failures:
         logging.warning(f"Failed to upload {len(failures)} files")
 
-    # Save results to JSON file (in current directory)
-    with open('upload_results.json', 'w') as f:
-        json.dump(results, f, indent=2)
+    # # Save results to JSON file (in current directory)
+    # with open('upload_results.json', 'w') as f:
+    #     json.dump(results, f, indent=2)
 
     # Create CSV report in base directory
     csv_path = create_csv_report(results)
@@ -192,3 +238,38 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Upload a single file to S3
+# def upload_file_to_s3(file_path, s3_client):
+#     try:
+#         # Get the hashed filename without directory path
+#         hashed_filename = os.path.basename(file_path)
+#
+#         # Determine S3 key by removing base directory and adding prefix
+#         relative_path = os.path.relpath(file_path, start=BASE_DIR)
+#         s3_key = os.path.join(S3_PREFIX, relative_path) if S3_PREFIX else relative_path
+#
+#         # Replace backslashes with forward slashes for S3 compatibility
+#         s3_key = s3_key.replace('\\', '/')
+#
+#         content_type = get_content_type(hashed_filename)
+#
+#         # Upload the file
+#         response = s3_client.upload_file(file_path, S3_BUCKET, s3_key, ExtraArgs={"ContentType": content_type})
+#
+#         print("******** ", response, " - ", s3_key)
+#         return {
+#             'file_path': file_path,
+#             'hashed_filename': hashed_filename,
+#             's3_key': s3_key,
+#             's3_url': s3_key,
+#             'status': 'success'
+#         }
+#     except Exception as e:
+#         logging.error(f"Error uploading {file_path}: {str(e)}")
+#         return {
+#             'file_path': file_path,
+#             'hashed_filename': os.path.basename(file_path),
+#             'status': 'error',
+#             'error_message': str(e)
+#         }

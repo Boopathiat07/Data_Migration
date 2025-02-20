@@ -1,8 +1,9 @@
 import pandas as pd
 
-file_path = '/home/divum/Desktop/LMS/Data_Migration/Documents/file_submission_skills_10_feb.csv'
+file_path = '/home/divum/Desktop/LMS/Data_Migration/Documents/contenthash_filename.csv'
 df = pd.read_csv(file_path)
 
+print(df.info())
 
 def extract_columns(input_csv, output_csv):
     # Read the input CSV file
@@ -35,4 +36,6 @@ def extract_columns(input_csv, output_csv):
 # input_file = '/home/divum/Desktop/LMS/Data_Migration/Documents/file_submission_skills_10_feb.csv'
 input_file = '/home/divum/Desktop/LMS/Data_Migration/Documents/intro_temp_files_10_feb.csv'
 output_file = '/home/divum/Desktop/LMS/Data_Migration/Documents/contenthash_filename.csv'
-extract_columns(input_file, output_file)
+# extract_columns(input_file, output_file)
+
+
