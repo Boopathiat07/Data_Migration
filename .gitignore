@@ -14,4 +14,9 @@ dm_env
 .git
 
 upload_results.json
-s3_upload.log
+s3_upload.log/
+
+**/.env
+
+**/*.log
+

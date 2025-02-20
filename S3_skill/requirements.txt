@@ -1,0 +1,7 @@
+boto3
+pandas
+python-dotenv
+tqdm
+Flask
+#concurrent.futures
+#mimetypes

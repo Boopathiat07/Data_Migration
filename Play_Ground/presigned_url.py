@@ -1,6 +1,4 @@
-import logging
-
-from skill_files import get_s3_client
+from S3_skill.skill_files_to_s3 import get_s3_client
 
 S3_BUCKET = 'glms-mediafiles-dev'
 

@@ -19,6 +19,7 @@ REGION_NAME=os.getenv("REGION_NAME")
 AWS_ACCESS_KEY_ID=os.getenv("AWS_ACCESS_KEY_ID")
 AWS_SECRET_ACCESS_KEY=os.getenv("AWS_SECRET_ACCESS_KEY")
 BUCKET_NAME=os.getenv("BUCKET_NAME")
+BASE_DIR=os.getenv("BASE_DIR")
 
 # Configure logging
 logging.basicConfig(
@@ -30,13 +31,18 @@ logging.basicConfig(
 # S3 configuration
 S3_BUCKET = BUCKET_NAME
 S3_REGION = REGION_NAME  # Change to your region
-S3_PREFIX = 'database_files/'  # Optional prefix for S3 objects
-BASE_DIR = '/home/divum/Desktop/LMS/Data_Migration/Documents/AA'
+# S3_PREFIX = '/'  # Optional prefix for S3 objects
 
 # CSV file path (in the base directory)
 timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
 CSV_FILE_PATH = os.path.join(BASE_DIR, f'hashed_files_s3_urls_{timestamp}.csv')
 
+# Load CSV mapping {contenthash: filename}
+csv_file_path = "contenthash_filename.csv"  # Update with correct path
+hash_to_filename_map = pd.read_csv(csv_file_path).set_index("contenthash")["filename"].to_dict()
+
+# Path for missing filenames CSV
+missing_filenames_csv = "missing_filenames.csv"
 
 # Create S3 client
 def get_s3_client():
@@ -46,7 +52,6 @@ def get_s3_client():
         aws_secret_access_key=AWS_SECRET_ACCESS_KEY,
         region_name=S3_REGION
     )
-
 
 # Find all files recursively
 def find_all_files(base_dir):
@@ -86,14 +91,6 @@ def get_content_type(file_name):
 
     return content_types_map.get(extension, "application/octet-stream")  # Default to binary stream
 
-
-# Load CSV mapping {contenthash: filename}
-csv_file_path = "/home/divum/Desktop/LMS/Data_Migration/Documents/contenthash_filename.csv"  # Update with correct path
-hash_to_filename_map = pd.read_csv(csv_file_path).set_index("contenthash")["filename"].to_dict()
-
-# Path for missing filenames CSV
-missing_filenames_csv = "missing_filenames.csv"
-
 def generate_unique_filename(original_filename):
     # Split filename and extension
     base_name, file_extension = os.path.splitext(original_filename)  # Correctly extracts extension
@@ -120,8 +117,6 @@ def upload_file_to_s3(file_path, s3_client):
         # Get actual filename from mapping, or fallback to hashed filename
         original_filename = hash_to_filename_map.get(hashed_filename, None)
 
-        print("HAshed Name : ", hashed_filename, " , Original Name : ", original_filename)
-
         if original_filename is None:
             # Create the file only when we encounter a missing filename
             if not os.path.exists(missing_filenames_csv):
@@ -138,17 +133,15 @@ def upload_file_to_s3(file_path, s3_client):
             # Use hashed filename as fallback
             original_filename = hashed_filename
 
-
-        # Get file extension (if exists)
-        file_extension = f".{original_filename.split('.')[-1]}" if '.' in original_filename else ""
-
         # Generate a unique filename without duplicating the extension
         unique_filename = generate_unique_filename(original_filename)
 
-        print("Unique Name : ", unique_filename)
+        # print("HAshed Name : ", hashed_filename, " , Original Name : ", original_filename , " Unique Name : ", unique_filename)
 
         # Construct the S3 key (folder + unique filename)
-        s3_key = f"{S3_PREFIX}{unique_filename}"
+        # s3_key = f"{S3_PREFIX}{unique_filename}"
+
+        s3_key = unique_filename
 
         # Get Content-Type
         content_type = get_content_type(original_filename)
@@ -175,8 +168,8 @@ def upload_file_to_s3(file_path, s3_client):
             'error_message': str(e)
         }
 
-# Create CSV report
 def create_csv_report(results):
+    os.makedirs(BASE_DIR, exist_ok=True)  # ✅ Ensure directory exists
     # Filter successful uploads
     successful_results = [r for r in results if r['status'] == 'success']
 
@@ -238,38 +231,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# Upload a single file to S3
-# def upload_file_to_s3(file_path, s3_client):
-#     try:
-#         # Get the hashed filename without directory path
-#         hashed_filename = os.path.basename(file_path)
-#
-#         # Determine S3 key by removing base directory and adding prefix
-#         relative_path = os.path.relpath(file_path, start=BASE_DIR)
-#         s3_key = os.path.join(S3_PREFIX, relative_path) if S3_PREFIX else relative_path
-#
-#         # Replace backslashes with forward slashes for S3 compatibility
-#         s3_key = s3_key.replace('\\', '/')
-#
-#         content_type = get_content_type(hashed_filename)
-#
-#         # Upload the file
-#         response = s3_client.upload_file(file_path, S3_BUCKET, s3_key, ExtraArgs={"ContentType": content_type})
-#
-#         print("******** ", response, " - ", s3_key)
-#         return {
-#             'file_path': file_path,
-#             'hashed_filename': hashed_filename,
-#             's3_key': s3_key,
-#             's3_url': s3_key,
-#             'status': 'success'
-#         }
-#     except Exception as e:
-#         logging.error(f"Error uploading {file_path}: {str(e)}")
-#         return {
-#             'file_path': file_path,
-#             'hashed_filename': os.path.basename(file_path),
-#             'status': 'error',
-#             'error_message': str(e)
-#         }
