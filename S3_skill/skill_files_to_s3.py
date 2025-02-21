@@ -92,7 +92,7 @@ def upload_file_to_s3(file_path, s3_client):
         if is_file_already_uploaded(hashed_filename):
             return {'file_path': file_path, 'status': 'skipped', 'reason': 'Already uploaded'}
 
-        original_filename = hash_to_filename_map.get(hashed_filename, hashed_filename)
+        original_filename = hash_to_filename_map.get(hashed_filename)
 
         # If original_filename is None, log it and skip upload
         if original_filename is None:
