@@ -21,16 +21,16 @@ import pandas as pd
 
 # print(df2.info())
 
-file_path = '/home/divum/Desktop/LMS/Data_Migration/S3_skill/output/hashed_files_s3_urls.csv'
+file_path = '/home/divum/Desktop/LMS/Data_Migration/S3_skill/output/combined_hashed_files_s3_urls.csv'
 df1 = pd.read_csv(file_path)
 
 
-file_path = '/home/divum/Desktop/LMS/Data_Migration/Documents/unique_contenthash.csv'
+file_path = '/home/divum/Desktop/LMS/Data_Migration/Documents/combined_unique_contenthash.csv'
 df2 = pd.read_csv(file_path)
 
 missing_df = df2[~df2['contenthash'].isin(df1['hashedname'])]
 # Save the missing values to a CSV file
-missing_df.to_csv("missing_hash_files.csv", index=False)
+missing_df.to_csv("missing_hash_files_from_combined_files.csv", index=False)
 
 # print("Missing values saved to 'missing_values.csv'")
 

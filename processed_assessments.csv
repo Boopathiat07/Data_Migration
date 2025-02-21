@@ -1,0 +1,4607 @@
+timecreated,timemodified,assignmentid,assignmentname,courseid,coursename,userid,assessment_json
+2017-03-27,2017-03-27,543,Lifting Components/equipments using correct lifting methods Workorder 1,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002449 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002449 Skill definition__1740130512975.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002449 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002449 Participant worksheet__1740130869398.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,546,Tightening procedures Workorder1,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002456 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002456 Skill definition__1740130568571.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002456 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002456 Participant worksheet__1740130808831.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,547,Tightening procedures Workorder 2,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002456 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002456 Skill definition__1740130568571.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002456 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002456 Participant worksheet__1740130808831.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,548,Tightening procedures Workorder 3,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002456 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002456 Skill definition__1740130568571.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002456 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002456 Participant worksheet__1740130808831.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,549,Collect the oil sample Workorder 1,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002434 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002434 Skill definition__1740130459974.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002434 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002434 Participant worksheet__1740130646427.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,550,Collect the oil sample Workorder 2,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002434 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002434 Skill definition__1740130459974.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002434 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002434 Participant worksheet__1740130646427.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,551,Collect the oil sample Workorder 3,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002434 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002434 Skill definition__1740130459974.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002434 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002434 Participant worksheet__1740130646427.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,552,Contamination Control Implementation Workorder 1,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002437 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002437 Skill definition__1740130543564.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002437 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": """",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,553,Contamination Control Implementation Workorder 2,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002437 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002437 Skill definition__1740130543564.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002437 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": """",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,554,Contamination Control Implementation Workorder 3,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002437 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002437 Skill definition__1740130543564.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002437 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": """",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,555,Walk Around Inspection Workorder 1,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002460 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002460 Skill definition__1740130757231.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002460 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002460 Participant worksheet__1740130741319.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,556,Walk Around Inspection Workorder 2,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002460 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002460 Skill definition__1740130757231.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002460 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002460 Participant worksheet__1740130741319.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,557,Walk Around Inspection Workorder 3,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002460 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002460 Skill definition__1740130757231.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002460 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002460 Participant worksheet__1740130741319.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,558,Removal and Installation of Filters Workorder 1,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002463 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002463 Skill definition__1740130552384.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002463 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002463 Participant worksheet__1740130568477.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,559,Removal and Installation of Filters Workorder 2,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002463 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002463 Skill definition__1740130552384.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002463 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002463 Participant worksheet__1740130568477.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,560,Removal and Installation of Filters Workorder 3,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002463 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002463 Skill definition__1740130552384.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002463 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002463 Participant worksheet__1740130568477.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,561,Identify maintenance information from OMM Workorder 1,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002471 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002471 Skill definition__1740130666891.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002471 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002471 Participant worksheet__1740130565207.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,562,Identify maintenance information from OMM Workorder 2,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002471 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002471 Skill definition__1740130666891.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002471 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002471 Participant worksheet__1740130565207.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,563,Identify maintenance information from OMM Workorder 3,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002471 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002471 Skill definition__1740130666891.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002471 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002471 Participant worksheet__1740130565207.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,564,Perform using Power Tools workorder 1,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002442 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002442 Skill definition__1740130606276.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": []
+  }
+}"
+2017-03-27,2017-03-27,565,Perform using Power Tools Workorder 2,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002442 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002442 Skill definition__1740130606276.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002442 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002442 Participant worksheet__1740130657428.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,566,Perform using Power Tools Workorder 3,707,Service Industry Level 0  Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002442 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002442 Skill definition__1740130606276.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002442 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002442 Participant worksheet__1740130657428.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,585,State of Charge Test Workorder 1,709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002015 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002015 Skill definition__1740130463037.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002015 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002015 Participant worksheet__1740130546650.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,586,State of Charge Test Workorder 2,709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002015 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002015 Skill definition__1740130463037.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002015 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002015 Participant worksheet__1740130546650.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,587,State of Charge Test Workorder 3,709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002015 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002015 Skill definition__1740130463037.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002015 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002015 Participant worksheet__1740130546650.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,588,Charging Alternator Output Test Workorder 1,709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002018 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002018 Skill definition__1740130519422.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002018 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002018 Participant worksheet__1740130624629.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,591,Diagnostics test in ETR/ETS system Workorder 1,709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002004 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002004 Skill definition__1740130828935.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002004 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002004 Participant worksheet__1740130531040.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,594,Starting system Test Workorder 1,709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002019 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002019 Skill definition__1740130760278.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002019 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002019 Participant worksheet__1740130631654.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,597,Basic Electrical Measurement Workorder 1,709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002002 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002002 Skill definition__1740130474913.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002002 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002002 Participant worksheet__1740130455897.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,598,Basic Electrical Measurement Workorder 2,709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002002 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002002 Skill definition__1740130474913.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002002 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002002 Participant worksheet__1740130455897.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,599,Basic Electrical Measurement Workorder 3,709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002002 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002002 Skill definition__1740130474913.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002002 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002002 Participant worksheet__1740130455897.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,600,"Service tasks on Gauges,senders and switches Workorder 1",709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002008 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002008 Skill definition__1740130485629.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002008 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002008 Participant worksheet__1740130529944.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,601,"Service tasks on Gauges,senders and switches Workorder 2",709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002008 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002008 Skill definition__1740130485629.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002008 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002008 Participant worksheet__1740130529944.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,602,"Service tasks on Gauges,senders and switches Workorder 3",709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002008 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002008 Skill definition__1740130485629.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002008 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002008 Participant worksheet__1740130529944.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,603,Visual Inspection of Batteries Workorder 1,709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002016 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002016 Skill definition__1740130753066.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002016 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002016 Participant worksheet__1740130484400.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,604,Visual Inspection of Batteries Workorder 2,709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002016 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002016 Skill definition__1740130753066.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002016 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002016 Participant worksheet__1740130484400.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,605,Visual Inspection of Batteries Workorder 3,709,Electrical Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002016 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002016 Skill definition__1740130753066.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002016 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002016 Participant worksheet__1740130484400.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,606,"Removal,inspection,install and adjust the MRV/pilot operated relief valve Workorder 1",710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002146 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002146 Skill definition__1740130711855.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002146 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002146 Participant worksheet__1740130801468.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,607,"Removal,inspection,install and adjust the MRV/pilot operated relief valve Workorder 2",710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002146 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002146 Skill definition__1740130711855.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002146 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002146 Participant worksheet__1740130801468.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,608,"Removal,inspection,install and adjust the MRV/pilot operated relief valve Workorder 3",710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002146 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002146 Skill definition__1740130711855.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002146 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002146 Participant worksheet__1740130801468.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,609,"Removal,Installation of hydraulic components(Motor/Pump/control valve/Cylinders Etc..) Workorder 1",710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002149 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002149 Skill definition__1740130748386.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002149 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002149 Participant worksheet__1740130478038.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,610,"Removal,Installation of hydraulic components(Motor/Pump/control valve/Cylinders Etc..) Workorder 2",710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002149 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002149 Skill definition__1740130748386.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002149 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002149 Participant worksheet__1740130478038.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,611,"Removal,Installation of hydraulic components(Motor/Pump/control valve/Cylinders Etc..) Workorder 3",710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002149 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002149 Skill definition__1740130748386.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002149 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002149 Participant worksheet__1740130478038.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,612,Check and adjust the mechanical control linkage Workorder 1,710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002153 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002153 Skill definition__1740130556792.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002153 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002153 Participant worksheet__1740130601445.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,613,Check and adjust the mechanical control linkage Workorder 2,710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002153 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002153 Skill definition__1740130556792.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002153 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002153 Participant worksheet__1740130601445.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,614,Perform cycle time test Workorder 1,710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002161 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002161 Skill definition__1740130796491.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002161 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002161 Participant worksheet__1740130575909.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,615,Perform cycle time test Workorder 2,710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002161 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002161 Skill definition__1740130796491.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002161 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002161 Participant worksheet__1740130575909.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,616,Perform cycle time test Workorder 3,710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002161 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002161 Skill definition__1740130796491.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002161 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002161 Participant worksheet__1740130575909.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,617,Perform cylinder drift test Workorder 1,710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017658 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017658 Skill definition__1740130528167.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017658 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017658 Participant worksheet__1740130809991.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,618,Perform cylinder drift test Workorder 2,710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017658 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017658 Skill definition__1740130528167.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017658 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017658 Participant worksheet__1740130809991.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,619,Perform cylinder drift test Workorder 3,710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017658 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017658 Skill definition__1740130528167.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017658 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017658 Participant worksheet__1740130809991.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,620,Perform resealing/replacing of hydraulic lines Workorder 1,710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002163 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002163 Skill definition__1740130836784.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002163 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002163 Participant worksheet__1740130493168.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,621,Perform resealing/replacing of hydraulic lines Workorder 2,710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002163 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002163 Skill definition__1740130836784.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002163 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002163 Participant worksheet__1740130493168.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,622,Perform resealing/replacing of hydraulic lines Workorder 3,710,Hydraulics Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002163 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002163 Skill definition__1740130836784.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002163 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002163 Participant worksheet__1740130493168.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,623,Remove/Inspect/Rebuild/Replace Turbocharger Workorder 1,713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002370 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002370 Skill definition__1740130594055.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002370 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002370 Participant worksheet__1740130697743.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,626,Perform Blow by Test Workorder 1,713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002371 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002371 Skill definition__1740130779945.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002371 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002371 Participant worksheet__1740130718525.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,627,Perform Blow by Test Workorder 2,713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002371 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002371 Skill definition__1740130779945.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002371 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002371 Participant worksheet__1740130718525.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,628,Perform Blow by Test Workorder 3,713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002371 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002371 Skill definition__1740130779945.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002371 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002371 Participant worksheet__1740130718525.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,629,Perform Boost pressure Test Workorder 1,713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002373 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002373 Skill definition__1740130734741.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002373 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002373 Participant worksheet__1740130760896.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,630,Perform Boost pressure Test Workorder 2,713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002373 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002373 Skill definition__1740130734741.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002373 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002373 Participant worksheet__1740130760896.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,631,Perform Boost pressure Test Workorder 3,713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002373 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002373 Skill definition__1740130734741.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002373 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002373 Participant worksheet__1740130760896.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,632,Remove/Inspect/Replace Thermostat Workorder 1,713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002384 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002384 Skill definition__1740130728084.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002384 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002384 Participant worksheet__1740130460732.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,635,Remove/Inspect/Rebuild/Replace Water pump Workorder1,713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002385 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002385 Skill definition__1740130594769.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002385 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002385 Participant worksheet__1740130823090.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,638,Perform Injection Actuation pressure Test  Workorder 1,713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002402 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002402 Skill definition__1740130456923.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002402 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002402 Participant worksheet__1740130634589.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,641,Perform HEUI Injector Trim Calibration Workorder 1,713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002400 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002400 Skill definition__1740130592154.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002400 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002400 Participant worksheet__1740130630409.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,644,Perform MEUI Injector Trim Calibration Workorder 1,713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002396 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002396 Skill definition__1740130542385.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002396 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002396 Participant worksheet__1740130622500.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,647,Perform Injector solenoid test/ cylinder cut out test Workorder 1,713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002398 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002398 Skill definition__1740130713997.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002398 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002398 Participant worksheet__1740130540192.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,648,Perform Injector solenoid test/ cylinder cut out test Workorder 2,713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002398 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002398 Skill definition__1740130713997.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002398 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002398 Participant worksheet__1740130540192.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,650,"Cylinder head removal, replace the gasket and torquing procedure Workorder 1",713,Diesel Engine Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002406 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002406 Skill definition__1740130476545.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002406 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002406 Participant worksheet__1740130769429.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,655,Speed sensor Test Workorder 1,714,Electrical and Electronics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002037 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002037 Skill definition__1740130621474.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002037 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002037 Participant worksheet__1740130730832.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,658,Basic navigation and reports Download in ET Workorder 1,714,Electrical and Electronics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002042 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002042 Skill definition__1740130556113.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002042 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002042 Participant worksheet__1740130873758.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,659,Basic navigation and reports Download in ET Workorder 2,714,Electrical and Electronics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002042 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002042 Skill definition__1740130556113.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002042 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002042 Participant worksheet__1740130873758.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,660,Basic navigation and reports Download in ET Workorder 3,714,Electrical and Electronics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002042 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002042 Skill definition__1740130556113.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002042 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002042 Participant worksheet__1740130873758.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,661,Service task in connectors Workorder 1,714,Electrical and Electronics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017682 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017682 Skill definition__1740130464369.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017682 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017682 Participant worksheet__1740130521118.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,662,Service task in connectors Workorder 2,714,Electrical and Electronics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017682 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017682 Skill definition__1740130464369.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017682 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017682 Participant worksheet__1740130521118.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,663,Service task in connectors Workorder 3,714,Electrical and Electronics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017682 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017682 Skill definition__1740130464369.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017682 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017682 Participant worksheet__1740130521118.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,664,Navigating and Interpreting Schematics Workorder 1,714,Electrical and Electronics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017683 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017683 Skill definition__1740130459399.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017683 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017683 Participant worksheet__1740130696742.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,665,Navigating and Interpreting Schematics Workorder 2,714,Electrical and Electronics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017683 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017683 Skill definition__1740130459399.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017683 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017683 Participant worksheet__1740130696742.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,666,Navigating and Interpreting Schematics Workorder 3,714,Electrical and Electronics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017683 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017683 Skill definition__1740130459399.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017683 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017683 Participant worksheet__1740130696742.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,667,Navigate all modes in EMS/CMS/MPD and view detected faults Workorder 1,714,Electrical and Electronics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002064 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002064 Skill definition__1740130883613.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002064 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002064 Participant worksheet__1740130829024.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,673,Torque converter/divider hydraulic system pressure test and adjust Workorder 1,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002277 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002277 Skill definition__1740130477768.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002277 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002277 Participant worksheet__1740130512632.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,674,Torque converter/divider hydraulic system pressure test and adjust Workorder 2,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002277 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002277 Skill definition__1740130477768.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002277 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002277 Participant worksheet__1740130512632.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,675,Torque converter/divider hydraulic system pressure test and adjust Workorder 3,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002277 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002277 Skill definition__1740130477768.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002277 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002277 Participant worksheet__1740130512632.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,676,Remove and install a torque converter control valve Workorder 1,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002279 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002279 Skill definition__1740130661315.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002279 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002279 Participant worksheet__1740130842060.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,679,Remove and install a torque converter /divider Workorder 1,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002280 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002280 Skill definition__1740130464683.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002280 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002280 Participant worksheet__1740130729892.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,682,Remove and install a power shift transmission Workorder 1,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002282 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002282 Skill definition__1740130708288.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002282 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002282 Participant worksheet__1740130864091.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,685,Remove and install transmission control valve (ICM / ECPC /Power shuttle CV/ Classic control valve) Workorder 1,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002286 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002286 Skill definition__1740130588047.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002286 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002286 Participant worksheet__1740130552104.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,688,Torque coverter stall speed test Workorder 1,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002287 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002287 Skill definition__1740130523949.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002287 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002287 Participant worksheet__1740130654591.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,689,Torque coverter stall speed test Workorder 2,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002287 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002287 Skill definition__1740130523949.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002287 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002287 Participant worksheet__1740130654591.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,690,Torque coverter stall speed test Workorder 3,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002287 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002287 Skill definition__1740130523949.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002287 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002287 Participant worksheet__1740130654591.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,691,Test and adjust the power train hydraulic system pressures Workorder 1,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002288 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002288 Skill definition__1740130501483.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002288 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002288 Participant worksheet__1740130462550.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,692,Test and adjust the power train hydraulic system pressures Workorder 2,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002288 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002288 Skill definition__1740130501483.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002288 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002288 Participant worksheet__1740130462550.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,693,Test and adjust the power train hydraulic system pressures Workorder 3,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002288 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002288 Skill definition__1740130501483.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002288 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002288 Participant worksheet__1740130462550.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,694,Calibrate the power train electronic control system Workorder 1,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002289 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002289 Skill definition__1740130569738.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002289 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002289 Participant worksheet__1740130698100.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,695,Calibrate the power train electronic control system Workorder 2,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002289 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002289 Skill definition__1740130569738.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002289 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002289 Participant worksheet__1740130698100.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,696,Calibrate the power train electronic control system Workorder 3,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002289 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002289 Skill definition__1740130569738.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002289 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002289 Participant worksheet__1740130698100.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,697,Remove and install a differential and bevel gear Workorder 1,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002291 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002291 Skill definition__1740130620787.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002291 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002291 Participant worksheet__1740130537435.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,700,Remove and install a final drive Workorder 1,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002293 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002293 Skill definition__1740130841378.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002293 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002293 Participant worksheet__1740130785947.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,703,Disassemble and assemble a final drive Workorder 1,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002294 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002294 Skill definition__1740130614736.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002294 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002294 Participant worksheet__1740130461643.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,706,Inspect the undercarriage components (CTS) Workorder 1,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002298 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002298 Skill definition__1740130564110.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002298 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002298 Participant worksheet__1740130687391.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,707,Inspect the undercarriage components (CTS) Workorder 2,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002298 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002298 Skill definition__1740130564110.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002298 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002298 Participant worksheet__1740130687391.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,708,Inspect the undercarriage components (CTS) Workorder 3,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002298 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002298 Skill definition__1740130564110.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002298 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002298 Participant worksheet__1740130687391.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,709,Test and adjust track tension Workorder 1,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002301 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002301 Skill definition__1740130777676.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002301 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002301 Participant worksheet__1740130474255.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,710,Test and adjust track tension Workorder 2,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002301 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002301 Skill definition__1740130777676.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002301 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002301 Participant worksheet__1740130474255.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,711,Test and adjust track tension Workorder 3,715,Power Train Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002301 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002301 Skill definition__1740130777676.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002301 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002301 Participant worksheet__1740130474255.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,712,Checking of the load check valve Workorder 1,711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002172 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002172 Skill definition__1740130785891.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002172 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002172 Participant worksheet__1740130594196.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,715,Resealing and testing of implement hyd control valve/pilot control valve Workorder 1,711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017660 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017660 Skill definition__1740130521683.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017660 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017660 Participant worksheet__1740130521441.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,716,Resealing and testing of implement hyd control valve/pilot control valve Workorder 2,711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017660 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017660 Skill definition__1740130521683.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017660 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017660 Participant worksheet__1740130521441.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,718,Disassemble and assemble a fixed displacement pump/motor Workorder 1,711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002187 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002187 Skill definition__1740130594097.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002187 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002187 Participant worksheet__1740130785676.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,719,Disassemble and assemble a fixed displacement pump/motor Workorder 2,711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002187 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002187 Skill definition__1740130594097.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002187 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002187 Participant worksheet__1740130785676.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,721,Disassemble and assemble a Variable displacement pump/motor Workorder 1,711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002188 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002188 Skill definition__1740130736101.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002188 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002188 Participant worksheet__1740130745362.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,724,Disassemble and assemble hydraulic cylinder and replace seal kit Workorder 1,711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002192 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002192 Skill definition__1740130513233.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002192 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002192 Participant worksheet__1740130871471.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,725,Disassemble and assemble hydraulic cylinder and replace seal kit Workorder 2,711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002192 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002192 Skill definition__1740130513233.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002192 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002192 Participant worksheet__1740130871471.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,726,Disassemble and assemble hydraulic cylinder and replace seal kit Workorder 3,711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002192 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002192 Skill definition__1740130513233.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002192 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002192 Participant worksheet__1740130871471.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,727,Cylinder blocked test Workorder 1,711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017661 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017661 Skill definition__1740130543920.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017661 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017661 Participant worksheet__1740130738496.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,728,Cylinder blocked test Workorder 2,711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017661 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017661 Skill definition__1740130543920.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017661 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017661 Participant worksheet__1740130738496.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,729,"Remove, inspect, install the resolver and purging Workorder 1",711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002204 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002204 Skill definition__1740130505698.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002204 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002204 Participant worksheet__1740130532791.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,732,Pressure testing and adjusting on a LSPC hydraulic system Workorder 1,711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002209 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002209 Skill definition__1740130838035.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002209 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002209 Participant worksheet__1740130570987.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,733,Pressure testing and adjusting on a LSPC hydraulic system Workorder 2,711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002209 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002209 Skill definition__1740130838035.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002209 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002209 Participant worksheet__1740130570987.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,734,Pressure testing and adjusting on a LSPC hydraulic system Workorder 3,711,Hydraulics Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002209 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002209 Skill definition__1740130838035.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002209 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002209 Participant worksheet__1740130570987.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,735,Output voltage adjustment in an alternator ( CDVR ) Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002540 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002540 Skill definition__1740130722566.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002540 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002540 Participant worksheet__1740130594328.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,738,Output voltage adjustment in an alternator ( LS Models ) Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002535 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002535 Skill definition__1740130687540.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002535 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002535 Participant worksheet__1740130654621.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,741,Quadrature droop adjustment in an alternator ( CDVR ) Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002541 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002541 Skill definition__1740130460283.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002541 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002541 Participant worksheet__1740130695033.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,744,Quadrature droop adjustment in an alternator ( LS Models ) Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002536 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002536 Skill definition__1740130518674.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002536 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002536 Participant worksheet__1740130463598.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,747,Engine and alternator setpoints programming in EMCP 3 series Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002523 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002523 Skill definition__1740130520747.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002523 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002523 Participant worksheet__1740130651424.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,750,Engine and alternator setpoints programming in EMCP 2 Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002517 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002517 Skill definition__1740130475806.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002517 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002517 Participant worksheet__1740130493193.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,753,Engine setpoint verification test in EMCP 2 Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002519 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002519 Skill definition__1740130467007.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002519 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002519 Participant worksheet__1740130524407.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,756,Field flashing of Alternators Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002559 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002559 Skill definition__1740130467555.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002559 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002559 Participant worksheet__1740130655358.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,759,Programming of Cyclic timer in EMCP 3 Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002528 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002528 Skill definition__1740130590460.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002528 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002528 Participant worksheet__1740130501933.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,762,Programming of digital Inputs & Outputs in EMCP 3  Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002527 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002527 Skill definition__1740130620993.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002527 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002527 Participant worksheet__1740130694897.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,765,Programming of spare analog inputs in EMCP 3 Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002525 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002525 Skill definition__1740130641666.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002525 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002525 Participant worksheet__1740130802957.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,768,Programming of spare relay in EMCP 3 Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002526 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002526 Skill definition__1740130503819.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002526 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002526 Participant worksheet__1740130709371.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,771,Programming of spare relay in EMCP 2 Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002520 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002520 Skill definition__1740130812916.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002520 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002520 Participant worksheet__1740130824868.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,774,Protective relaying setpoints programming in EMCP 3 series Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002524 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002524 Skill definition__1740130579677.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002524 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002524 Participant worksheet__1740130597936.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,777,Protective Relaying setpoints programming in EMCP 2 Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002518 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002518 Skill definition__1740130548361.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002518 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002518 Participant worksheet__1740130724204.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,780,"Calculation of Setpoints for Over current , Earth Fault & Earth Leakage Relay Workorder 1",723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002557 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002557 Skill definition__1740130791282.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": []
+  }
+}"
+2017-03-28,2017-03-28,783,Configuration of Easygen for Island Mode Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002552 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002552 Skill definition__1740130598916.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002552 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002552 Participant worksheet__1740130542625.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,786,Configuration of EGCP 2  for Island mode Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002550 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002550 Skill definition__1740130756927.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002550 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002550 Participant worksheet__1740130846893.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,789,Insulation resistance measurement of alternator windings Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002514 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002514 Skill definition__1740130791828.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002514 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002514 Participant worksheet__1740130495654.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,792,Rotating rectifier assembly testing Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002511 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002511 Skill definition__1740130840916.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002511 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002511 Participant worksheet__1740130474574.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,795,Surge supressor testing Workorder 1,723,Electric Power Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002512 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002512 Skill definition__1740130486005.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002512 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002512 Participant worksheet__1740130610028.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,798,Test and adjust the brake system air pressures Workorder 1,716,Brakes Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002333 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002333 Skill definition__1740130479582.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002333 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002333 Participant worksheet__1740130480535.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,799,Test and adjust the brake system air pressures Workorder 2,716,Brakes Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002333 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002333 Skill definition__1740130479582.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002333 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002333 Participant worksheet__1740130480535.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,800,Test and adjust the brake system air pressures Workorder 3,716,Brakes Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002333 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002333 Skill definition__1740130479582.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002333 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002333 Participant worksheet__1740130480535.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,801,Test and adjust the brake system hydraulic pressures Workorder 1,716,Brakes Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002337 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002337 Skill definition__1740130537886.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002337 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002337 Participant worksheet__1740130461414.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,802,Test and adjust the brake system hydraulic pressures Workorder 2,716,Brakes Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002337 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002337 Skill definition__1740130537886.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002337 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002337 Participant worksheet__1740130461414.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,803,Test and adjust the brake system hydraulic pressures Workorder 3,716,Brakes Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002337 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002337 Skill definition__1740130537886.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002337 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002337 Participant worksheet__1740130461414.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,804,Purge air from the brake system  Workorder 1,716,Brakes Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002338 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002338 Skill definition__1740130496338.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002338 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002338 Participant worksheet__1740130710295.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,805,Purge air from the brake system  Workorder 2,716,Brakes Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002338 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002338 Skill definition__1740130496338.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002338 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002338 Participant worksheet__1740130710295.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,806,Purge air from the brake system  Workorder 3,716,Brakes Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002338 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002338 Skill definition__1740130496338.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002338 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002338 Participant worksheet__1740130710295.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,807,Turbocharger & Waste gate (if applicable) inspection  Workorder 1,717,Engine Performance Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002413 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002413 Skill definition__1740130492781.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002413 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002413 Participant worksheet__1740130576187.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,810,Speed timing sensor calibration  Workorder 1,717,Engine Performance Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002417 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002417 Skill definition__1740130483338.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002417 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002417 Participant worksheet__1740130547967.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,834,SOS results interpretation on diesel engines Workorder 1,718,Engine Repair Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017713 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017713 Skill definition__1740130611383.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017713 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017713  SOS D8Z__1740130599233.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,835,SOS results interpretation on diesel engines Workorder 2,718,Engine Repair Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017713 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017713 Skill definition__1740130611383.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017713 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017713  SOS D8Z__1740130599233.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,836,SOS results interpretation on diesel engines Workorder 3,718,Engine Repair Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017713 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017713 Skill definition__1740130611383.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017713 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017713  SOS D8Z__1740130599233.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,837,Overhauling and inspection of components with GRPTS Workorder 1,718,Engine Repair Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002408 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002408 Skill definition__1740130506376.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002408 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002408 Participant worksheet__1740130726730.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,840,Pressure test and adjust in PPPC hydraulic system Workorder 1,720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002219 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002219 Skill definition__1740130531618.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002219 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002219 Participant worksheet (1)__1740130554219.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,841,Pressure test and adjust in PPPC hydraulic system Workorder 2,720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002219 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002219 Skill definition__1740130531618.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002219 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002219 Participant worksheet (1)__1740130554219.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,842,Pressure test and adjust in PPPC hydraulic system Workorder 3,720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002219 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002219 Skill definition__1740130531618.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002219 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002219 Participant worksheet (1)__1740130554219.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,843,Lift/Tilt linkage and lever position sensors calibration Workorder 1,720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002226 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002226 Skill definition__1740130511819.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002226 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002226 Participant worksheet__1740130857328.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,844,Lift/Tilt linkage and lever position sensors calibration Workorder 2,720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002226 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002226 Skill definition__1740130511819.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002226 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002226 Participant worksheet__1740130857328.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,846,Calibration and adjustment of displacement control valve in hydrostatic drive Workorder 1,720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002247 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002247 Skill definition__1740130819572.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002247 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002247 Participant worksheet__1740130648907.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,847,Pressure test and adjust in the hydrostatic system Workorder 1,720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002248 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002248 Skill definition__1740130486315.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002248 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002248 Participant worksheet__1740130634920.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,848,Pressure test and adjust in the hydrostatic system Workorder 2,720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002248 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002248 Skill definition__1740130486315.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002248 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002248 Participant worksheet__1740130634920.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,850,Case drain test on a piston pump / motor Workorder 1,720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50017664 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017664 Skill definition__1740130882566.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50017664 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50017664 Participant worksheet__1740130564939.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,851,Testing and adjusting of a mechanical / hydrostatic fan drive system Workorder 1,720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002258 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002258 Skill definition__1740130745291.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002258 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002258 Participant worksheet__1740130846587.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,854,"Calibration ,check and adjust the fan speed on a electronic hydrostatic fan drive system Workorder 1",720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002260 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002260 Skill definition__1740130749777.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002260 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002260 Participant worksheet__1740130851190.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,857,"Disassemble,inspect and assemble the hand metering unit Workorder 1",720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002262 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002262 Skill definition__1740130533587.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002262 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002262 Participant worksheet__1740130495154.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,860,Test and Adjust a pump flow using flowmeter Workorder 1,720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002237 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002237 Skill definition__1740130513951.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002237 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002237 Participant worksheet__1740130475418.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,861,"NFC pressure,mainpressure and power shift presssure test on a main hydraulic control valveWorkorder 1",720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002231 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002231 Skill definition__1740130487068.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002231 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002231 Participant worksheet__1740130562666.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,862,"NFC pressure,mainpressure and power shift presssure test on a main hydraulic control valve Workorder 2",720,Hydraulics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002231 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002231 Skill definition__1740130487068.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002231 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002231 Participant worksheet__1740130562666.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,864,Calibrate an electronically controlled steering clutch and brake system Workorder 1,721,Power Train Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002312 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002312 Skill definition__1740130646232.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002312 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002312 Participant worksheet__1740130526443.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,865,Calibrate an electronically controlled steering clutch and brake system Workorder 2,721,Power Train Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002312 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002312 Skill definition__1740130646232.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002312 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002312 Participant worksheet__1740130526443.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,866,Calibrate an electronically controlled steering clutch and brake system Workorder 3,721,Power Train Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002312 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002312 Skill definition__1740130646232.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002312 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002312 Participant worksheet__1740130526443.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,867,Disassemble and assemble Power shuttle CV/ Classic control valve / ICM / ECPC  transmission control valve Workorder 1,721,Power Train Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002325 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002325 Skill definition__1740130822131.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002325 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002325 Participant worksheet__1740130515996.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,870,Disassemble and assemble a standard differential and adjustments Workorder 1,721,Power Train Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002326 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002326 Skill definition__1740130641903.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002326 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002326__1740130613123.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,873,Perform Diagnostic Tests using Cat ET Workorder 1,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002043 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002043 Skill definition__1740130716581.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002043 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002043 Participant worksheet__1740130801890.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,874,Perform Diagnostic Tests using Cat ET Workorder 2,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002043 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002043 Skill definition__1740130716581.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002043 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002043 Participant worksheet__1740130801890.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,875,Perform Diagnostic Tests using Cat ET Workorder 3,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002043 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002043 Skill definition__1740130716581.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002043 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002043 Participant worksheet__1740130801890.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,876,Perform the Monitoring parameter settings using Cat ET Workorder 1,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002061 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002061 Skill definition__1740130552565.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002061 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002061 Participant worksheet__1740130703771.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,879,Configuration update using factory password Workorder 1,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002062 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002062 Skill definition__1740130632263.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002062 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002062 Participant worksheet__1740130641536.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,882,Flashing of Comm. Adapter Workorder 1,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002063 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002063 Skill definition__1740130702002.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002063 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002063 Participant worksheet__1740130769985.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,885,Data Logging and Real Time graphing functions in CAT ET Workorder 1,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002054 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002054 Skill definition1__1740130491714.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002054 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002054 Participant worksheet__1740130584991.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,886,Data Logging and Real Time graphing functions in CAT ET Workorder 2,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002054 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002054 Skill definition1__1740130491714.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002054 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002054 Participant worksheet__1740130584991.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,887,Data Logging and Real Time graphing functions in CAT ET Workorder 3,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002054 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002054 Skill definition1__1740130491714.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002054 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002054 Participant worksheet__1740130584991.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,888,ECM replacement and flashing procedure using CAT ET Workorder 1,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002060 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002060 Skill definition__1740130711246.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002060 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002060 Participant worksheet__1740130658488.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,889,ECM replacement and flashing procedure using CAT ET Workorder 2,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002060 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002060 Skill definition__1740130711246.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002060 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002060 Participant worksheet__1740130658488.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,891,Analog sensor test Workorder 1,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002049 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002049 Skill definition__1740130522108.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002049 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002049 Participant worksheet__1740130696775.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,892,Analog sensor test Workorder 2,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002049 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002049 Skill definition__1740130522108.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002049 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002049 Participant worksheet__1740130696775.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,893,Analog sensor test Workorder 3,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002049 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002049 Skill definition__1740130522108.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002049 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002049 Participant worksheet__1740130696775.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,894,Digital sensor test Workorder 1,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002050 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002050 Skill definition__1740130460503.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002050 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002050 Participant worksheet__1740130554381.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,895,Digital sensor test Workorder 2,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002050 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002050 Skill definition__1740130460503.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002050 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002050 Participant worksheet__1740130554381.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,896,Digital sensor test Workorder 3,719,Electrical & Electronics Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002050 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002050 Skill definition__1740130460503.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002050 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002050 Participant worksheet__1740130554381.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,900,Check the brake wear indicator Workorder 1,722,Brakes Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002343 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002343 Skill definition__1740130753015.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002343 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002343 Participant worksheet__1740130866614.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,903,Manually release the park brake / tow the machine Workorder 1,722,Brakes Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002344 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002344 Skill definition__1740130484426.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002344 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002344 Participant worksheet__1740130779794.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,906,Test the brake system efficiency  Workorder 1,722,Brakes Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002345 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": """",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002345 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002345 Participant worksheet__1740130530602.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,907,Test the brake system efficiency  Workorder 2,722,Brakes Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002345 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": """",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002345 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002345 Participant worksheet__1740130530602.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,908,Test the brake system efficiency  Workorder 3,722,Brakes Level 2 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002345 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": """",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002345 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002345 Participant worksheet__1740130530602.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,909,Perform Measurement using measuring tools Workorder 1,712,Service Industry Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002473 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002473 Skill definition__1740130486064.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002473 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002473 Participant worksheet__1740130638931.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,910,Perform Measurement using measuring tools Workorder 2,712,Service Industry Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002473 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002473 Skill definition__1740130486064.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002473 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002473 Participant worksheet__1740130638931.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,912,Locate correct Part No. using SIS Workorder 1,712,Service Industry Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002479 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002479 Skill definition__1740130783578.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002479 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002479 Participant worksheet__1740130740620.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,913,Locate correct Part No. using SIS Workorder 2,712,Service Industry Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002479 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002479 Skill definition__1740130783578.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002479 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002479 Participant worksheet__1740130740620.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,914,Locate correct Part No. using SIS Workorder 3,712,Service Industry Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002479 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002479 Skill definition__1740130783578.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002479 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002479 Participant worksheet__1740130740620.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,915,Navigate Basic product information in SIS Workorder 1,712,Service Industry Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002483 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002483 Skill definition__1740130833651.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002483 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002483 Participant worksheet__1740130550142.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,916,Navigate Basic product information in SIS Workorder 2,712,Service Industry Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002483 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002483 Skill definition__1740130833651.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002483 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002483 Participant worksheet__1740130550142.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-28,2017-03-28,917,Navigate Basic product information in SIS Workorder 3,712,Service Industry Level 1 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002483 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002483 Skill definition__1740130833651.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002483 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002483 Participant worksheet__1740130550142.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,918,Inspection/Replace drive belts Workorder 1,708,Diesel Engine Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002365 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002365 Skill definition__1740130833762.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002365 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002365 Participant worksheet__1740130548086.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,919,Inspection/Replace drive belts Workorder 2,708,Diesel Engine Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002365 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002365 Skill definition__1740130833762.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002365 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002365 Participant worksheet__1740130548086.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,921,Perform Valve Lash Adjustments Workorder 1,708,Diesel Engine Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002358 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002358 Skill definition__1740130465795.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002358 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002358 Participant worksheet__1740130601824.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,922,Perform Valve Lash Adjustments Workorder 2,708,Diesel Engine Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002358 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002358 Skill definition__1740130465795.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002358 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002358 Participant worksheet__1740130601824.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,923,Perform Valve Lash Adjustments Workorder 3,708,Diesel Engine Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002358 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002358 Skill definition__1740130465795.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002358 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002358 Participant worksheet__1740130601824.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,924,Inspect/Clean/Replace the air filters Workorder 1,708,Diesel Engine Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002359 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002359 Skill definition__1740130515715.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002359 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002359 Participant worksheet__1740130462163.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,925,Inspect/Clean/Replace the air filters Workorder 2,708,Diesel Engine Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002359 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002359 Skill definition__1740130515715.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002359 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002359 Participant worksheet__1740130462163.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,926,Inspect/Clean/Replace the air filters Workorder 3,708,Diesel Engine Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002359 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002359 Skill definition__1740130515715.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002359 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002359 Participant worksheet__1740130462163.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,927,Perform Engine Oil Pressure Test Workorder 1,708,Diesel Engine Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002361 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002361 Skill definition__1740130550363.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002361 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002361 Participant worksheet__1740130729165.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,928,Perform Engine Oil Pressure Test Workorder 2,708,Diesel Engine Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002361 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002361 Skill definition__1740130550363.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002361 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002361 Participant worksheet__1740130729165.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,929,Perform Engine Oil Pressure Test Workorder 3,708,Diesel Engine Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002361 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002361 Skill definition__1740130550363.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002361 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002361 Participant worksheet__1740130729165.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,930,Removal and Installation of fuel filters Workorder 1,708,Diesel Engine Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002364 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002364 Skill definition__1740130726558.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002364 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002364 Participant worksheet__1740130560348.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,931,Removal and Installation of fuel filters Workorder 2,708,Diesel Engine Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002364 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002364 Skill definition__1740130726558.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002364 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002364 Participant worksheet__1740130560348.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
+2017-03-27,2017-03-27,932,Removal and Installation of fuel filters Workorder 3,708,Diesel Engine Level 0 Skill Assessment,356,"{
+  ""name"": """",
+  ""field_skill"": {
+    ""learner_url"": [
+      {
+        ""file_name"": ""50002364 Skill definition.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002364 Skill definition__1740130726558.pdf"",
+        ""file_category"": ""learner_document""
+      }
+    ],
+    ""trainer_url"": [
+      {
+        ""file_name"": ""50002364 Participant worksheet.pdf"",
+        ""file_type"": ""pdf"",
+        ""file_url"": ""skill_files/50002364 Participant worksheet__1740130560348.pdf"",
+        ""file_category"": ""trainer_document""
+      }
+    ]
+  }
+}"
