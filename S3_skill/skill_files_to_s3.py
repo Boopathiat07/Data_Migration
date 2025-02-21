@@ -139,10 +139,11 @@ def main():
                             total=len(all_files), desc="Uploading files"))
 
     skipped_files = sum(1 for r in results if r['status'] == 'skipped' and r.get("reason") == "Already uploaded")
+    uploaded_files = sum(1 for r in results if r['status'] == 'success')
     missing_files = sum(
         1 for r in results if r['status'] == 'skipped' and r.get("reason") == "Missing original filename")
 
-    print(f"Upload complete. CSV report saved to {CSV_FILE_PATH}.")
+    print(f"Uploaded {uploaded_files} files. CSV report saved to {CSV_FILE_PATH}.")
     print(f"Skipped {skipped_files} files (already uploaded).")
     print(f"Logged {missing_files} files with missing original filenames to {MISSING_FILENAME_CSV}.")
     print("Check s3_upload.log for details.")
