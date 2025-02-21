@@ -1,6 +1,16 @@
 import pandas as pd
+import os
 
-file_path = '/home/divum/Desktop/LMS/Data_Migration/Documents/contenthash_filename.csv'
+file_path = '/home/divum/Desktop/LMS/Data_Migration/Documents/hashed_filename.csv'
+
+# Check if the file exists, if not, create an empty one with headers
+if not os.path.exists(file_path):
+    df = pd.DataFrame(columns=['hashedname', 'file_name'])  # Define expected columns
+    df.to_csv(file_path, index=False)
+    print(f"File created: {file_path}")
+else:
+    print("File already exists.")
+
 df = pd.read_csv(file_path)
 
 print(df.info())
@@ -9,7 +19,6 @@ def extract_columns(input_csv, output_csv):
     # Read the input CSV file
     df = pd.read_csv(input_csv)
     df_filtered = df[['contenthash', 'filename']]
-
     try:
         # Read the existing output file if it exists
         existing_df = pd.read_csv(output_csv)
@@ -33,9 +42,9 @@ def extract_columns(input_csv, output_csv):
 
 
 # Example usage
-# input_file = '/home/divum/Desktop/LMS/Data_Migration/Documents/file_submission_skills_10_feb.csv'
-input_file = '/home/divum/Desktop/LMS/Data_Migration/Documents/intro_temp_files_10_feb.csv'
-output_file = '/home/divum/Desktop/LMS/Data_Migration/Documents/contenthash_filename.csv'
-# extract_columns(input_file, output_file)
+input_file = '/home/divum/Desktop/LMS/Data_Migration/Documents/file_submission_skills_10_feb.csv'
+# input_file = '/home/divum/Desktop/LMS/Data_Migration/Documents/intro_temp_files_10_feb.csv'
+output_file = '/home/divum/Desktop/LMS/Data_Migration/Documents/hashed_filename.csv'
+extract_columns(input_file, output_file)
 
 

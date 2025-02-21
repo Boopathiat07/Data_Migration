@@ -40,7 +40,7 @@ MISSING_FILENAME_CSV = os.path.join(OUTPUT_DIR, 'missing_original_filenames.csv'
 csv_lock = threading.Lock()
 
 # Load CSV mapping {contenthash: filename}
-csv_file_path = "contenthash_filename.csv"
+csv_file_path = "unique_contenthash.csv"
 hash_to_filename_map = pd.read_csv(csv_file_path).set_index("contenthash")["filename"].to_dict()
 
 # Create S3 client

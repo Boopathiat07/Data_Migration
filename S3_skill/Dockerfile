@@ -4,15 +4,18 @@ FROM python:3.12
 # Set the working directory inside the container
 WORKDIR /app
 
+
+COPY . /app/
+
 # Copy individual files (if needed)
-COPY main.py /app/
-COPY skill_files_to_s3.py /app/
-COPY requirements.txt /app/
-COPY .env /app/
-COPY contenthash_filename.csv /app/
-COPY missing_filenames.csv /app/
-COPY s3_upload.log /app/
-COPY output /app/
+#COPY main.py /app/
+#COPY skill_files_to_s3.py /app/
+#COPY requirements.txt /app/
+#COPY .env /app/
+#COPY contenthash_filename.csv /app/
+#COPY missing_filenames.csv /app/
+#COPY s3_upload.log /app/
+#COPY output /app/
 #COPY data /app/
 
 # Install dependencies
