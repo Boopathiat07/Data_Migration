@@ -13,7 +13,6 @@ COPY . /app/
 #COPY requirements.txt /app/
 #COPY .env /app/
 #COPY contenthash_filename.csv /app/
-#COPY missing_filenames.csv /app/
 #COPY s3_upload.log /app/
 #COPY output /app/
 #COPY data /app/

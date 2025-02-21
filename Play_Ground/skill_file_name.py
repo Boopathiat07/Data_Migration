@@ -1,50 +1,24 @@
 import pandas as pd
-import os
 
-file_path = '/home/divum/Desktop/LMS/Data_Migration/Documents/hashed_filename.csv'
+# File paths
+input_file = "/home/divum/Desktop/LMS/Data_Migration/Documents/file_submission_skills_10_feb.csv"
+output_file = "/home/divum/Desktop/LMS/Data_Migration/Documents/intro_temp_files_10_feb.csv"
+combined_file = "/home/divum/Desktop/LMS/Data_Migration/Documents/combined_unique_contenthash.csv"
 
-# Check if the file exists, if not, create an empty one with headers
-if not os.path.exists(file_path):
-    df = pd.DataFrame(columns=['hashedname', 'file_name'])  # Define expected columns
-    df.to_csv(file_path, index=False)
-    print(f"File created: {file_path}")
-else:
-    print("File already exists.")
+# Read CSV files
+df1 = pd.read_csv(input_file, usecols=["contenthash", "filename"])
+df2 = pd.read_csv(output_file, usecols=["contenthash", "filename"])
 
-df = pd.read_csv(file_path)
+# Combine both DataFrames
+combined_df = pd.concat([df1, df2])
 
-print(df.info())
+print(len(combined_df["contenthash"]))
 
-def extract_columns(input_csv, output_csv):
-    # Read the input CSV file
-    df = pd.read_csv(input_csv)
-    df_filtered = df[['contenthash', 'filename']]
-    try:
-        # Read the existing output file if it exists
-        existing_df = pd.read_csv(output_csv)
-    except FileNotFoundError:
-        existing_df = pd.DataFrame(columns=['contenthash', 'filename'])
-        existing_df.to_csv(output_csv, index=False)
+# Remove duplicates based on 'contenthash'
+unique_df = combined_df.drop_duplicates(subset=["contenthash"], keep="first")
 
-    # Identify new contenthashes not already present
-    new_entries = df_filtered[~df_filtered['contenthash'].isin(existing_df['contenthash'])]
-    duplicate_entries = df_filtered[df_filtered['contenthash'].isin(existing_df['contenthash'])]
+print(len(unique_df["contenthash"]))
+# Save to a new CSV file
+# unique_df.to_csv(combined_file, index=False)
 
-    if not new_entries.empty:
-        # Append new entries to the existing file with header if newly created
-        new_entries.to_csv(output_csv, mode='a', header=False, index=False)
-        print(f"Appended {len(new_entries)} new entries to {output_csv}")
-    else:
-        print("No new contenthash found. File remains unchanged.")
-
-    if not duplicate_entries.empty:
-        print(f"Duplicate contenthash found: {duplicate_entries['contenthash'].tolist()}")
-
-
-# Example usage
-input_file = '/home/divum/Desktop/LMS/Data_Migration/Documents/file_submission_skills_10_feb.csv'
-# input_file = '/home/divum/Desktop/LMS/Data_Migration/Documents/intro_temp_files_10_feb.csv'
-output_file = '/home/divum/Desktop/LMS/Data_Migration/Documents/hashed_filename.csv'
-extract_columns(input_file, output_file)
-
-
+print(f"Combined file saved at: {combined_file}")

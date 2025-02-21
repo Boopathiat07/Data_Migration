@@ -33,14 +33,14 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # CSV file path
 timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-CSV_FILE_PATH = os.path.join(OUTPUT_DIR, 'hashed_files_s3_urls.csv')
-MISSING_FILENAME_CSV = os.path.join(OUTPUT_DIR, 'missing_original_filenames.csv')
+CSV_FILE_PATH = os.path.join(OUTPUT_DIR, 'combined_hashed_files_s3_urls.csv')
+MISSING_FILENAME_CSV = os.path.join(OUTPUT_DIR, 'combined_missing_original_filenames.csv')
 
 # CSV lock to prevent race conditions
 csv_lock = threading.Lock()
 
 # Load CSV mapping {contenthash: filename}
-csv_file_path = "unique_contenthash.csv"
+csv_file_path = "combined_unique_contenthash.csv"
 hash_to_filename_map = pd.read_csv(csv_file_path).set_index("contenthash")["filename"].to_dict()
 
 # Create S3 client
